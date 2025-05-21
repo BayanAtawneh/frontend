@@ -1,0 +1,32 @@
+.sql-query-generator {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.sql-query-generator h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.sql-query-generator textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.sql-query-generator button {
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.sql-query-generator pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.sql-query-generator div {
+  margin-top: 10px;
+}
